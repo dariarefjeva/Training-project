@@ -24,7 +24,7 @@ body {
 }
 
 .card {
-    background-color: #f2f1ed;
+    background-color: #e8d8e8;
     border-radius: 12px;
     padding: 40px 32px;
     width: 320px;
@@ -76,13 +76,13 @@ body {
 
 .download-button {
     width: fit-content;
-    background-color: #e6e5e0;
+    background-color: #4558fc;
     border: none;
-    border-radius: 999px;
+    border-radius: 100px;
     padding: 14px 24px;
     font-size: 16px;
     font-weight: 500;
-    color: #333;
+    color: #ffffff;
     cursor: pointer;
     transition: background-color 0.2s ease;
 }
